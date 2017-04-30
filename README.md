@@ -1,4 +1,5 @@
 # Machine Learning Playground
+In this repo, I'm collecting several Machine Learning experiments in Python and Keras/Tensorflow. Most of this won't be useful to others but this is the place where I will document my journey into some specific topics in Deep Learning.
 
 ## Contents
 

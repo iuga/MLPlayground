@@ -4,7 +4,7 @@ In this repo, I'm collecting several Statistical Learning experiments in R or Py
 ## Contents
 
 ### Statistical Learning
-Provides an accessible overview of the field of the statistical learning. An essential toolset for making sense og the vast and complex concepts that emerge in the field.
+Provides an accessible overview of the field of the statistical learning. An essential toolset for making sense of the vast and complex concepts that emerge in the field.
 - [Statistical Learning: Introduction](statistical_learning/introduction.ipynb)
 
 ### Autoencoders

@@ -1,4 +1,4 @@
-# Machine Learning Playground
+# Statistical Learning Playground
 In this repo, I'm collecting several Statistical Learning experiments in R or Python with Keras/Tensorflow. Most of this won't be useful to others but this is the place where I will document my journey into some specific topics in Statistical, Machine and Deep Learning.
 
 ## Contents
